@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Appaso Sanjay Avaghadi</h1>
-<h3 align="center">Software Developer | Python & Java Enthusiast | Frontend & Backend Learner</h3>
+<h3 align="center">Software Developer | Python & Java Enthusiast | Frontend & Backend </h3>
 
 <p align="center">
   Passionate Computer Science postgraduate from India with hands-on experience in 
@@ -13,9 +13,9 @@
 
 - 🎓 M.Sc. in Computer Science  
 - 💼 Interested in **Software Development & Python-based roles**  
-- 🔭 Currently working on **Web Applications & Machine Learning projects**  
-- 🌱 Learning **React, Spring Boot, and Advanced Python**  
-- 💡 Strong foundation in **DSA, OOP, Databases, and Web Technologies**  
+- 🔭 Currently working as a  **System Engineer in Sofech Solution and Services**  
+- 🌱 Learning **React.js ,Next.js and Advanced Python and Machine Learning**  
+- 💡 Strong foundation in **OOP, Databases, and Web Technologies**  
 - 📫 Reach me at: **appaso1919@gmail.com**
 
 ---
@@ -65,11 +65,7 @@
   <a href="https://tailwindcss.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
-<h3 align="center">🚀 “Keep learning, keep building, never give up.”</h3>
