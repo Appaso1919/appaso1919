@@ -16,7 +16,6 @@
 - 🔭 Currently working as a  **System Engineer in Sofech Solution and Services Pune**  
 - 🌱 Learning **React.js ,Next.js and Advanced Python and Machine Learning**  
 - 💡 Strong foundation in **OOP, Databases, and Web Technologies**  
-- 📫 Reach me at: **appaso1919@gmail.com**
 
 ---
 
