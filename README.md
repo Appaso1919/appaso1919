@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Appaso Sanjay Avaghadi</h1>
-<h3 align="center">Software Developer | Python & Java Enthusiast | Frontend & Backend </h3>
+<h3 align="center">Software Developer | Python & Java Developer </h3>
 
 <p align="center">
-  Passionate Computer Science postgraduate from India with hands-on experience in 
-  Python, Java, Web Development, and Machine Learning.  
+  Passionate Computer Science postgraduate from Kolhapur with hands-on experience in 
+  as a System Engineer and Frontend Developer.  
   I enjoy building scalable applications and continuously learning new technologies.
 </p>
 
@@ -13,7 +13,7 @@
 
 - 🎓 M.Sc. in Computer Science  
 - 💼 Interested in **Software Development & Python-based roles**  
-- 🔭 Currently working as a  **System Engineer in Sofech Solution and Services**  
+- 🔭 Currently working as a  **System Engineer in Sofech Solution and Services Pune**  
 - 🌱 Learning **React.js ,Next.js and Advanced Python and Machine Learning**  
 - 💡 Strong foundation in **OOP, Databases, and Web Technologies**  
 - 📫 Reach me at: **appaso1919@gmail.com**
