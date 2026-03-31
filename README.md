@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Appaso Sanjay Avaghadi</h1>
-<h3 align="center">Software Developer | Python & Java Developer </h3>
+<h3 align="center">Software Developer | React & Next.js </h3>
 
 <p align="center">
   Passionate Computer Science postgraduate from Kolhapur with hands-on experience in 
@@ -14,7 +14,7 @@
 - 🎓 M.Sc. in Computer Science  
 - 💼 Interested in **Software Development & Python-based roles**  
 - 🔭 Currently working as a  **System Engineer in Sofech Solution and Services Pune**  
-- 🌱 Learning **React.js ,Next.js and Advanced Python and Machine Learning**  
+- 🌱 Learning **React.js ,Next.js and  Python and Java**  
 - 💡 Strong foundation in **OOP, Databases, and Web Technologies**  
 
 ---
