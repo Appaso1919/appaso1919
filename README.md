@@ -12,7 +12,7 @@
 <h3 align="left">👨‍💻 About Me</h3>
 
 - 🎓 M.Sc. in Computer Science  
-- 💼 Interested in **Software Development & Python-based roles**  
+- 💼 Interested in **Software Development & Frontend & Backend roles**  
 - 🔭 Currently working as a  **System Engineer in Sofech Solution and Services Pune**  
 - 🌱 Learning **React.js ,Next.js and  Python and Java**  
 - 💡 Strong foundation in **OOP, Databases, and Web Technologies**  
