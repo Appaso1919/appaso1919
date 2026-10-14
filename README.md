@@ -15,7 +15,7 @@
 - 💼 Interested in **Software Development & Cloud Engineering**  
 - 🔭 Currently working as a  **System Engineer in Sofech Solution and Services Pune**  
 - 🌱 Learning **Linux, Networking, AWS and  Python and Java**  
-- 💡 Strong foundation in **Libux, Networking, Databases, and Web Technologies**  
+- 💡 Strong foundation in **Linux, Networking, Databases, and Web Technologies**  
 
 ---
 
