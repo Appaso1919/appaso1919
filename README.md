@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Appaso Sanjay Avaghadi</h1>
-<h3 align="center">Software Developer | React & Next.js </h3>
+<h3 align="center">Software Developer | Cloud Engineer </h3>
 
 <p align="center">
   Passionate Computer Science postgraduate from Kolhapur with hands-on experience in 
